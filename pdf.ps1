@@ -1,4 +1,4 @@
-asciidoctor-pdf -a imagesdir=./imgs --destination-dir ./output  .\book.adoc ; .\output\book.pdf
+asciidoctor-pdf -a imagesdir=./imgs --destination-dir ./output  ./book.adoc ; ./output/book.pdf
 # SIG # Begin signature block
 # MIIEOQYJKoZIhvcNAQcCoIIEKjCCBCYCAQExCzAJBgUrDgMCGgUAMGkGCisGAQQB
 # gjcCAQSgWzBZMDQGCisGAQQBgjcCAR4wJgIDAQAABBAfzDtgWUsITrck0sYpfvNR
